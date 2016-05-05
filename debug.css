@@ -1,8 +1,10 @@
-header, h1, p {
+/*nav, li {
   border: 1px solid darkgreen;
-}
+}*/
+/*   ---  */
 
-/*header, section, footer {
+/*
+header, section, footer {
   width: 100%;
   min-height: 200px;
   margin: 10px 0px;
@@ -14,8 +16,8 @@ section::before {
 }
 footer::before {
   content: "footer." attr(class);
-}*/
-
-/*div::before {
-  content: "class: " attr(class);
 }
+
+div::before {
+  content: "class: " attr(class);
+}*/
